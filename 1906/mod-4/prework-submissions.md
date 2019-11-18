@@ -18,6 +18,6 @@ For Example:
 
 ## Travis Rollins
 
-* [Node Server Tutorial]()
-* [Promise Practice Exercises]()
-* [Web Scraping Workshop]()
+* [Node Server Tutorial](https://github.com/VPAbraham/messages)
+* [Promise Practice Exercises](https://github.com/VPAbraham/promises)
+* [Web Scraping Workshop](https://github.com/VPAbraham/webscraping)
